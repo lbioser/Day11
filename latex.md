@@ -11,4 +11,4 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 		$E = mc^2$
 		
 		还有一个多行公式：
-		$$ \\frac{a}{b} = c $$
+		$$\frac{a}{b} = c $$
